@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    height: 720px;
+    padding-left: 5%;
+    padding-right: 5%;
+    /* background-color: #a9e5e5; */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5elkgwg49XjtLBh6H3RaoCPT4reua8cXwYQ&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: 800px 800px;
+    /* background-size: contain;
+    background-size: cover; */
+    background-position: center;
+
+}
+
+nav{
+    text-align: center;
+}
+
+nav > span{
+    font-weight: 500;
+}
